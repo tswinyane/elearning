@@ -1,4 +1,4 @@
 elearning
 =========
 
-elearning platform for education
+Elearning platform for education in the public and government schools.
